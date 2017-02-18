@@ -1,0 +1,101 @@
+Detail: Accuracy of the Tree on test (unseen) data: 
+Row: 1
+Actual Class: Cinema
+Predicted Class: Cinema
+Correct?: Yes
+
+Row: 2
+Actual Class: Tennis
+Predicted Class: Cinema
+Correct?: No
+
+Row: 3
+Actual Class: Cinema
+Predicted Class: Cinema
+Correct?: Yes
+
+Row: 4
+Actual Class: Cinema
+Predicted Class: Cinema
+Correct?: Yes
+
+Row: 5
+Actual Class: Stay
+Predicted Class: Cinema
+Correct?: No
+
+Row: 6
+Actual Class: Cinema
+Predicted Class: Cinema
+Correct?: Yes
+
+Row: 7
+Actual Class: Cinema
+Predicted Class: Cinema
+Correct?: Yes
+
+Row: 8
+Actual Class: Shopping
+Predicted Class: Cinema
+Correct?: No
+
+Row: 9
+Actual Class: Cinema
+Predicted Class: Cinema
+Correct?: Yes
+
+Row: 10
+Actual Class: Tennis
+Predicted Class: Cinema
+Correct?: No
+
+Row: 11
+Actual Class: Cinema
+Predicted Class: Cinema
+Correct?: Yes
+
+Row: 12
+Actual Class: Shopping
+Predicted Class: Cinema
+Correct?: No
+
+Row: 13
+Actual Class: Cinema
+Predicted Class: Cinema
+Correct?: Yes
+
+Row: 14
+Actual Class: Cinema
+Predicted Class: Cinema
+Correct?: Yes
+
+Row: 15
+Actual Class: Shopping
+Predicted Class: Cinema
+Correct?: No
+
+Row: 16
+Actual Class: Cinema
+Predicted Class: Cinema
+Correct?: Yes
+
+Row: 17
+Actual Class: Cinema
+Predicted Class: Cinema
+Correct?: Yes
+
+Row: 18
+Actual Class: Stay
+Predicted Class: Cinema
+Correct?: No
+
+Row: 19
+Actual Class: Cinema
+Predicted Class: Cinema
+Correct?: Yes
+
+
+Brief: Accuracy of the Tree on test (unseen) data:
+Total records: 19
+Correctly predicted class: 12
+Accuracy:  63.1579 % 

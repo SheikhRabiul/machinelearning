@@ -1,0 +1,4 @@
+weather Sunny Windy Rainy
+parents Yes No
+money Rich Poor
+decision Cinema Stay Tennis Shopping
