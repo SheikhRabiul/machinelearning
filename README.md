@@ -12,11 +12,13 @@ this program. For privacy issue, I am not putting that dataset here, instead I a
 
 Windows: 
 Compile: g++ dtreelearning.cpp -o dtreelearning.out
+
 Run: dtreelearning.out attributes.txt trainingdata.txt testdata.txt
 
 
 Linux:
 Compile: g++ dtreelearning.cpp -o dtreelearning.out
+
 Run: ./dtreelearning.out attributes.txt trainingdata.txt testdata.txt
 
 
