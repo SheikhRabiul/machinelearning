@@ -24,7 +24,6 @@ g++ dtreelearning.cpp -o dtreelearning.out
 ./dtreelearning.out attributes.txt trainingdata.txt testdata.txt
 
 
-
 #All input data and executable should be in same directory
 #The program will also write the output in the same directory as following file name:
 
